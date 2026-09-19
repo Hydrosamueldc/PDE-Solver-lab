@@ -44,7 +44,8 @@ Week 3 using the shared Crank-Nicolson solver directly.
 .\.venv\Scripts\python.exe -m unittest discover -s tests -v
 .\.venv\Scripts\python.exe -m examples.compare_methods
 .\.venv\Scripts\python.exe apps\pde_solver_home.py
-.\.venv\Scripts\python.exe apps\crank_nicolson_lab.py
+.\.venv\Scripts\python.exe apps\solver_workspace.py
+.\.venv\Scripts\python.exe apps\comparison_lab.py
 ```
 
 ## Solver API
