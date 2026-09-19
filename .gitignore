@@ -1,0 +1,9 @@
+.venv/
+.claude/
+.sixth/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated lesson artifacts
+lessons/**/outputs/
